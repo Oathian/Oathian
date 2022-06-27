@@ -1,7 +1,7 @@
 # Aidan Maycock
---
+
 ## Full Stack Developer
---
+
 - This is my website: https://oathian.github.io/
 - Technologies I am familiar with:  [![StackShare](http://img.shields.io/badge/tech-stack-0690fa.svg?style=flat)](https://stackshare.io/oathian/my-stack)
 - Contact me here: aidanmaycock@gmail.com
