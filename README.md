@@ -1,10 +1,11 @@
-### Hi there 👋
-
-This is my website: https://oathian.github.io/
-
-Technologies I am familiar with:  [![StackShare](http://img.shields.io/badge/tech-stack-0690fa.svg?style=flat)](https://stackshare.io/oathian/my-stack)
-
-This is my codewars account: https://www.codewars.com/users/Aidan222
+# Aidan Maycock
+---
+## Full Stack Developer
+---
+- This is my website: https://oathian.github.io/
+- Technologies I am familiar with:  [![StackShare](http://img.shields.io/badge/tech-stack-0690fa.svg?style=flat)](https://stackshare.io/oathian/my-stack)
+- Contact me here: aidanmaycock@gmail.com
+- This is my codewars account: https://www.codewars.com/users/Aidan222
 
 <!--
 **Oathian/Oathian** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
