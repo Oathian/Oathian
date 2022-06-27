@@ -1,6 +1,7 @@
 ### Hi there 👋
 
 This is my website: https://oathian.github.io/
+This is my codewars account: https://www.codewars.com/users/Aidan222
 
 <!--
 **Oathian/Oathian** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
