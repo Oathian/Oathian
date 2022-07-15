@@ -7,7 +7,7 @@ Currently undertaking a full stack bootcamp at Northcoders
 - My portfolio website: https://oathian.github.io/
 - Technologies I am familiar with:  [![StackShare](http://img.shields.io/badge/tech-stack-0690fa.svg?style=flat)](https://stackshare.io/oathian/my-stack)
 - Contact me: aidanmaycock@gmail.com
-- TMy codewars account: https://www.codewars.com/users/Aidan222
+- My codewars account: https://www.codewars.com/users/Aidan222
 
 <!--
 **Oathian/Oathian** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
