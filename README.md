@@ -9,8 +9,8 @@ Currently undertaking a full stack bootcamp at Northcoders
 - Contact me: aidanmaycock@gmail.com
 - My codewars account: https://www.codewars.com/users/Aidan222
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=oathian"/>
 <!--
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=oathian"/>
 **Oathian/Oathian** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
